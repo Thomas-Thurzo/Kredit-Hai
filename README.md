@@ -1,3 +1,3 @@
-# MiniSiteTemplate
+# Kredit-Hai
 
-Website Template für JavaScript Projekte.
+Ein Übungsprojekt für JavaScript. Es wird ein Kreditrechner programmiert.
